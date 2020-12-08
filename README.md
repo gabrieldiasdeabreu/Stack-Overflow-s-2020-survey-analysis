@@ -8,6 +8,8 @@ Choose a main programming language is a great step in one's career, this analysi
 
 This notebook aims to answer questions about choices of main programming language and their impact on the developers. The Data is provided by [StackOverflow Annual Developer Survey](https://insights.stackoverflow.com/survey).
 
+Medium Post [Medium post](https://gabrieldiasdeabreu.medium.com/dont-choose-your-main-programming-language-before-reading-this-5b416c93b9ac).
+
 The main questions used to investigate are the following:
 
 - Programming Language impacts on the Job Satisfaction?;
