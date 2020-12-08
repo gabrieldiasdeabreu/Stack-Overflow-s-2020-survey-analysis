@@ -82,7 +82,7 @@ pip install -r requirements.txt
     ├── survey_results_public.csv - survey dataset
     └── survey_results_schema.csv - dataset descriptions
 
-## acknowledgment
+## Acknowledgment
 
 Stack Overflow for providing [Stack Overflow 2020 Developer Survey](https://insights.stackoverflow.com/survey)
 [Udacity Data Science Nano Degree](https://www.udacity.com/course/data-scientist-nanodegree--nd025)
