@@ -73,14 +73,14 @@ pip install -r requirements.txt
 
 ### Project tree
 
-.
-├── README_2020.txt - stack overflow readme
-├── README.md - project readme
-├── requirements.txt - requirements for pip
-├── so_survey_2020.pdf - an example of the survey analysed
-├── StackOverflowAnalisys.ipynb - jupyter notebook with CRISP-DM proccess
-├── survey_results_public.csv - survey dataset
-└── survey_results_schema.csv - dataset descriptions
+    .
+    ├── README_2020.txt - stack overflow readme
+    ├── README.md - project readme
+    ├── requirements.txt - requirements for pip
+    ├── so_survey_2020.pdf - an example of the survey analysed
+    ├── StackOverflowAnalisys.ipynb - jupyter notebook with CRISP-DM proccess
+    ├── survey_results_public.csv - survey dataset
+    └── survey_results_schema.csv - dataset descriptions
 
 ## acknowledgment
 
